@@ -1,2 +1,1 @@
-# vers-o
-gamer
+1.0.0
